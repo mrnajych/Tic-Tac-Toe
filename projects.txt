@@ -1,0 +1,41 @@
+Animations and responsiveness -> lecture 3 -> portfolio website
+		A portfolio project created using only HTML and CSS with animation and responsiveness showcases your web design skills by building a dynamic and adaptable static website. It includes sections like an introduction, project highlights, skills, and contact information, with smooth transitions and effects to enhance user experience.
+
+DOM + Mordern js ->unwrap class =>
+
+An increment-decrement page created using HTML, CSS, and JavaScript allows users to increase or decrease a numeric value with buttons. The JavaScript function updates the displayed value dynamically, while HTML and CSS provide the structure and styling.
+
+js series mini project -> lecture - 4 
+A weather page, created using HTML, CSS, and JavaScript, utilizes a free weather API to display current weather conditions based on the user's location. It fetches the user's location automatically and also provides a feature to search weather for any location worldwide. The JavaScript handles API requests and data display, while HTML and CSS ensure a clean and responsive interface.
+
+
+
+js series mini project -> tic tac toe
+
+A Tic Tac Toe game page, created with HTML, CSS, and JavaScript, allows two players to play interactively within a web browser. The JavaScript logic determines the game's winner or if the game ends in a tie and updates the display accordingly. HTML structures the game board, while CSS ensures a visually appealing and responsive design.
+
+react basics -> lecture -> plan with love starter 
+
+A tourist places page, created with HTML, CSS, and JavaScript, displays various tourist destinations with options to mark them as "Interested" or "Not Interested." The JavaScript handles user interactions, updating the status of each place accordingly. 
+
+react basics -> lecture - 4 -> top course starter 
+A courses page, created with HTML, CSS, and JavaScript, organizes courses into different tabs for easy navigation. Users can like or dislike each course
+
+tailwind lecture 1 razorpay 
+
+A frontend page created with Tailwind CSS offers a highly customizable and responsive design using utility-first CSS classes. Tailwind simplifies the styling process, enabling rapid development with minimal custom CSS.
+
+ecomzy project react advance lecture 4 starter 
+
+ECOMZY offers a seamless shopping experience with two main pages:
+Home Page: By default, it lists a variety of products across different categories. Each product includes a description, price, and an "Add to Cart" button. Once added, the button dynamically changes to "Remove Item", allowing for easy management of cart items.
+Cart Page: Displays all items added from the Home page. Each item can be removed individually, and the page provides a summary including the total number of items and the total price. If the cart is empty, a friendly "Your Cart is Empty" message appears along with a "Shop Now" button to return to the Home page
+
+
+
+
+
+
+
+
+
