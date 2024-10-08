@@ -1,5 +1,5 @@
-<h1 align='center'> <font color='magenta'><font size=7><img src="" height="40" width="40"></font> </font></h1>
-<h1 align='center'><font color='purple'><font size=6>Weather APP</font> </font></h1>
+<h1 align='center'> <font color='magenta'><font size=7><img src="https://cdn-icons-png.flaticon.com/512/934/934477.png" height="60" width="60"></font> </font></h1>
+<h1 align='center'><font color='purple'><font size=6>Tic-Tac-Toe Game</font> </font></h1>
 
 <kbd>![Screenshot 2024-05-24 205644](https://github.com/mrnajych/Weather-app/blob/main/assets/Screenshot%202024-10-08%20114152.png?raw=true)</kbd>
 
